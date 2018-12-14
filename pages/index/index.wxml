@@ -53,11 +53,6 @@
         </view>
 
         <!-- <template is='guanzhuItem' data="{{...item}}"/> -->
-
-
-
-
-        <!-- <template is="postItem" data="{{...item}}"/> -->
       </block>
     </view>
 
